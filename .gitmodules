@@ -21,3 +21,6 @@
 [submodule "lib/pico-sdk"]
 	path = lib/pico-sdk
 	url = https://github.com/qmk/pico-sdk.git
+[submodule "keyboards/source-code"]
+	path = keyboards/source-code
+	url = https://github.com/doodboard/source-code.git
