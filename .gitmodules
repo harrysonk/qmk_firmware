@@ -24,3 +24,6 @@
 [submodule "keyboards/source-code"]
 	path = keyboards/Duckboards
 	url = https://github.com/doodboard/source-code.git
+[submodule "keyboards/keyboards/DuckBoards"]
+	path = keyboards/keyboards/DuckBoards
+	url = https://github.com/doodboard/source-code.git
